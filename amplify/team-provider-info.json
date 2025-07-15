@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mywellnessapp-dev-eae15-authRole",
+      "UnauthRoleArn": "arn:aws:iam::762233737719:role/amplify-mywellnessapp-dev-eae15-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::762233737719:role/amplify-mywellnessapp-dev-eae15-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mywellnessapp-dev-eae15-deployment",
+      "UnauthRoleName": "amplify-mywellnessapp-dev-eae15-unauthRole",
+      "StackName": "amplify-mywellnessapp-dev-eae15",
+      "StackId": "arn:aws:cloudformation:us-east-1:762233737719:stack/amplify-mywellnessapp-dev-eae15/92f864a0-61c1-11f0-8160-0efe708628ff",
+      "AmplifyAppId": "d2dmb09gp1xm72"
+    },
+    "categories": {
+      "auth": {
+        "mywellnessappf2e72fd4": {}
+      }
+    }
+  }
+}
