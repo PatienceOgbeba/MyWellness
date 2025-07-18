@@ -1,8 +1,3 @@
-Here's a clean and professional `README.md` file based on your commands and project setup:
-
----
-
-````markdown
 # 🩺 My Wellness Tracker
 
 A simple and beautiful React application that helps users track their **blood pressure** and **sugar levels**, with secure user authentication powered by **AWS Amplify**.
@@ -125,16 +120,3 @@ This project is open-source and free to use under the MIT License.
 
 ---
 
-## 💬 Questions?
-
-Open an issue or start a discussion on the [GitHub repository](https://github.com/YOUR-USERNAME/YOUR-REPO).
-
-```
-
----
-
-Let me know if you'd like me to:
-- Auto-generate this with your actual GitHub repo URL
-- Include screenshots or a live demo section
-- Add hosting instructions with AWS Amplify Hosting or Vercel
-```
